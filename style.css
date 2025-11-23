@@ -86,7 +86,7 @@ nav ul li a:hover{
 .content .image img{
     width: 400px;
 }
-@media (min-width:950px) and (max-width:1150px){
+@media (min-width:360px) and (max-width:1150px){
     .content .image img{
     width: 330px;
     }
@@ -103,5 +103,6 @@ nav ul li a:hover{
     body::after{
         clip-path: circle(50% at bottom);
     }
+
 
 }
